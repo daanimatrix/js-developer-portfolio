@@ -57,8 +57,3 @@ function updatePortfolio(profileData) {
     updateLanguages(profileData);
     updatePortfolio(profileData);
   })();
-    updateHardSkills(profileData)
-    updateLanguages(profileData)
-    updatePortfolio(profileData)
-    updateProfessionalExperience(profileData)
-})()
