@@ -9,7 +9,7 @@
     "hardSkills": [
       {
         "name": "Python",
-        "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/python.png"
+        "logo": "data/imgs/python.png"
       },
       {
         "name": "JavaScript",
