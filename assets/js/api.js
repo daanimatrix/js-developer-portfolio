@@ -5,7 +5,7 @@ async function fetchProfileData() {
         if (response.ok) {
             const data = await response.json();
             // Decodifica os dados, pois estão em base64
-            const profileData = JSON.parse(atob(data.content));
+            const profileData = JSON.parse(decodeURIComponent(escape(window.atob(data.content))));
             return profileData;
         } else {
             throw new Error('Erro ao obter os dados');
