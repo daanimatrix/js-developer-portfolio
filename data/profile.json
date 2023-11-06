@@ -16,8 +16,12 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
-        "name": "MySql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
+        "name": "html",
+        "logo": "https://raw.githubusercontent.com/Minfermis/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "css",
+        "logo": "https://raw.githubusercontent.com/Minfermis/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
         "name": "VsCode",
