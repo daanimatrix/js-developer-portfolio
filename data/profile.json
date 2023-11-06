@@ -13,19 +13,19 @@
       },
       {
         "name": "JavaScript",
-        "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
         "name": "MySql",
-        "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/mysql.pngg"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
       },
       {
         "name": "VsCode",
-        "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/vscode.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
       },
       {
         "name": "NodeJS",
-        "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       }
     ],
     "softSkills": [
