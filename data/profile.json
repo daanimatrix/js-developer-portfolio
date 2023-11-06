@@ -9,27 +9,23 @@
     "hardSkills": [
       {
         "name": "Python",
-        "logo": "https://github.com/Minfermis/js-developer-portfolio/blob/main/data/imgs/python.png"
+        "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/python.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://github.com/Minfermis/js-developer-portfolio/blob/main/data/imgs/js.png"
+        "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/js.png"
       },
       {
         "name": "MySql",
-        "logo": "https://github.com/Minfermis/js-developer-portfolio/blob/main/data/imgs/mysql.png"
-      },
-      {
-        "name": "Github",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/mysql.pngg"
       },
       {
         "name": "VsCode",
-        "logo": "https://github.com/Minfermis/js-developer-portfolio/blob/main/data/imgs/vscode.png"
+        "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/vscode.png"
       },
       {
         "name": "NodeJS",
-        "logo": "https://github.com/Minfermis/js-developer-portfolio/blob/main/data/imgs/nodejs.png"
+        "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/nodejs.png"
       }
     ],
     "softSkills": [
