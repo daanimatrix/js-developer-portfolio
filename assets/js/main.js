@@ -1,4 +1,3 @@
-
 function updateProfileInfo(profileData) {
     const photo = document.getElementById('profile.photo')
     photo.src = profileData.photo
@@ -51,9 +50,13 @@ function updatePortfolio(profileData) {
 
 
 (async () => {
-    const profileData = await fetchProfileData()
-    updateProfileInfo(profileData)
-    updateSoftSkills(profileData)
+    const profileData = await fetchProfileData();
+    updateProfileInfo(profileData);
+    updateSoftSkills(profileData);
+    updateHardSkills(profileData);
+    updateLanguages(profileData);
+    updatePortfolio(profileData);
+  })();
     updateHardSkills(profileData)
     updateLanguages(profileData)
     updatePortfolio(profileData)
