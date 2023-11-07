@@ -1,10 +1,10 @@
 {
-  "name": "Emerson Romana Senna",
-  "photo": "https://avatars.githubusercontent.com/u/133699469?s=400&u=1b688bc80bbe9e9a3ef378000b18d89c9b8e3f01&v=4",
-  "job": "Estudante/Autônomo",
+  "name": "Daniel do nascimento",
+  "photo": "https://avatars.githubusercontent.com/u/52839563?s=400&u=2b76aceba380545f009d70a7e69b430887b514d0&v=4",
+  "job": "RPA Developer",
   "location": "Guarulhos - SP",
-  "phone": "(11) 91480-7746",
-  "email": "emerson.romana@gmail.com",
+  "phone": "(11) 97738-9967",
+  "email": "danielnasc2021@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -28,8 +28,20 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
       },
       {
-        "name": "NodeJS",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "PHP",
+        "logo": "https://raw.githubusercontent.com/daanimatrix/js-developer-portfolio/main/data/imgs/php.png"
+      },
+      {
+        "name": "Bootstrap",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"
+      },
+      {
+        "name": "kotlin",
+        "logo": "https://raw.githubusercontent.com/daanimatrix/js-developer-portfolio/main/data/imgs/kotlin.png"
+      },
+      {
+        "name": "chart.js",
+        "logo": "https://seeklogo.com/images/C/chart-js-logo-BB0E7C3308-seeklogo.com.png"
       }
     ],
     "softSkills": [
