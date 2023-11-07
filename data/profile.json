@@ -54,18 +54,12 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (técnico)",
-    "Espanhol (intermediário)"
+    "Inglês (técnico)"
   ],
   "portfolio": [
     {
-      "name": "Projeto Pokedex - Exemplo de integração com API (pokeAPI)",
-      "url": "https://github.com/Minfermis/ConstruindoPokedex-JavaScript-DioMe",
-      "github": true
-    },
-    {
-      "name": "Projeto de previsão do tempo melhorado",
-      "url": "https://github.com/Minfermis/previsaoTempoMelhorado-projetoPessoal",
+      "name": "Pizzaria em js",
+      "url": "https://github.com/daanimatrix/Projeto-Pizzaria",
       "github": true
     }
   ]
