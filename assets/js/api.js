@@ -1,5 +1,5 @@
 async function fetchProfileData() {
-    const url = 'https://api.github.com/repos/Minfermis/js-developer-portfolio/contents/data/profile.json';
+    const url = 'https://api.github.com/repos/daanimatrix/js-developer-portfolio/contents/data/profile.json';
     try {
         const response = await fetch(url);
         if (response.ok) {
